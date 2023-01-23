@@ -7,3 +7,9 @@
 3. Salve os arquivos do Estado no Google Cloud Storage.
 
 Submeta o print de cada etapa de configuração do Pipeline .
+
+## Resolução
+
+Criação do bucket
+![image](https://user-images.githubusercontent.com/1098781/214026434-aec75f48-a567-4b67-803d-70fecd1e472b.png)
+
