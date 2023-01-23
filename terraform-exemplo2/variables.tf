@@ -4,10 +4,10 @@ variable "network_name" {
   default     = "terraform-network"
 }
 
-variable "centro_custo_rh" {
+variable "centro_custo_tech" {
   description = "Nome da Rede"
   type        = string
-  default     = "rh"
+  default     = "tech"
 }
 
 
