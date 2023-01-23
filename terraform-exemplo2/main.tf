@@ -6,14 +6,14 @@ terraform {
   }
 
    backend "gcs" {
-    bucket  = "barberoterraform"
+    bucket  = "itgolabsterraform"
     prefix  = "terraform/state"
   }
   
 }
 
 provider "google" {
-  project = "barbero-devops-iac"
+  project = "itgolabs-devops-prod"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
@@ -28,7 +28,7 @@ resource "google_compute_instance" "vm_instance" {
   tags = ["prod"]
 
   labels = {
-    centro_custo = "${var.centro_custo_rh}"
+    centro_custo = "${var.centro_custo_tech}"
   }
 
   boot_disk {
