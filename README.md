@@ -10,6 +10,12 @@ Submeta o print de cada etapa de configuração do Pipeline .
 
 ## Resolução
 
+### Repositório utilizado para a configuração dos triggers
+https://github.com/tiagosabadini/site-portfolio-pessoal/blob/master/cloudbuild.yaml
+
+### Triggers
+![image](https://user-images.githubusercontent.com/1098781/214540001-de840c7f-e92a-459e-a062-67a144c3694a.png)
+
 ### Criação do bucket
 ![image](https://user-images.githubusercontent.com/1098781/214026434-aec75f48-a567-4b67-803d-70fecd1e472b.png)
 
@@ -18,7 +24,6 @@ Submeta o print de cada etapa de configuração do Pipeline .
 
 ### Máquina criada
 ![image](https://user-images.githubusercontent.com/1098781/214037945-f2ea6e08-de40-48fa-9d7d-eeb523d6efca.png)
-
 ![image](https://user-images.githubusercontent.com/1098781/214038002-a3e18039-6bdc-42d2-958d-63227ae64283.png)
 
 
